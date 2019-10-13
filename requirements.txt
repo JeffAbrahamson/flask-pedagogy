@@ -1,5 +1,7 @@
 flask
 ipython
 flask-wtf
+wheel
 flask-sqlalchemy
 flask-migrate
+flask-login
